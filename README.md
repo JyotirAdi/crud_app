@@ -6,11 +6,16 @@
 * Postman
 ## Deployment
 
+To install the dependencies
+```bash
+pip install -r requirements.txt
+```
 To run this project 
 
 ```bash
   python crud.py
 ```
+
 ## Working
 
 Adding new user 
