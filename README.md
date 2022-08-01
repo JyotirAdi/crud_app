@@ -4,6 +4,13 @@
 * Flask
 * MongoDB
 * Postman
+## Deployment
+
+To run this project 
+
+```bash
+  python crud.py
+```
 ## Working
 
 Adding new user 
