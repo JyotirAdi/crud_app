@@ -10,6 +10,12 @@ To install the dependencies
 ```bash
 pip install -r requirements.txt
 ```
+Create a .env file as follows
+```bash
+secret_key=<yousecretkey>
+mongo_url=<URL>
+```
+
 To run this project 
 
 ```bash
